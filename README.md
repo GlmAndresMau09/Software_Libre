@@ -69,7 +69,7 @@ Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) 
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/GlmAndresMau09/Software_Libre.wiki.git)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/GlmAndresMau09/Software_Libre/wiki/Wiki)
 
 ## Versionado 📌
 
