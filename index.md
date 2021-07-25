@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+![Captura](https://user-images.githubusercontent.com/83998267/126908545-f511f9df-e1ae-4c5b-b870-6a52272e7a61.PNG)
+
+
+
 You can use the [editor on GitHub](https://github.com/GlmAndresMau09/Software_Libre/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -22,6 +26,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+
+![Captura](https://user-images.githubusercontent.com/83998267/126908596-9db198d6-cb0f-4b3c-a4b0-d94376b41d7e.PNG)
 
 [Link](url) and ![Image](src)
 ```
