@@ -11,7 +11,7 @@ Bienvenido
 
 
 
-### ofrece tus productos a las manos de todo el mundo
+### Ofrece tus productos a las manos de todo el mundo
 
 ![E-commerce](https://user-images.githubusercontent.com/83998267/126919505-4e7769a7-620e-4e84-a576-1fa7bcef6027.jpg)
 
@@ -19,13 +19,13 @@ Bienvenido
 
 
 
-You can use the [editor on GitHub](https://github.com/GlmAndresMau09/Software_Libre/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tu puedes elegir la capacidad de producttos que desees poner en venta en nuestra aplicación asi controlas tu banco de productos y ventas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tu puedes ver cuantos usuarios revizan tus productos y saber que le hace falta a tu producto o si el mismo tiene algun problema para su venta.
 
-### Markdown
+### Forma de pago
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aqui tu seleccionas tu forma de pago que mas te beneficie o la que tu negocio posea.
 
 Tu sellecionas la forma de pago que necesites o requieras.
 
@@ -48,7 +48,7 @@ Personalizamos tu sitio de ventas
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+DETALLES
 
 ### Suscribete con nosotros y has que tu negocio pase a una nueva hera tecnologica.
 
@@ -56,8 +56,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ![cm3](https://user-images.githubusercontent.com/83998267/126919845-dae5a240-2f58-405f-b896-980eb46b5889.jpg)
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GlmAndresMau09/Software_Libre/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+TU PAGINA TIENE TODAS LAS SEGURIDADES COMO PARA SUS ENTREGAS Y PAGOS HACIENDONOS LA PREFERIDA DE LOS USUARUIOS
 ### Contactanos
 
 Quito-Ecuador
@@ -65,4 +64,5 @@ Telfono:0983731825
 Link de DESCARGA (https://glmandresmau09.github.io/Software_Libre/)
 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                                         UNIVERSIDAD POLITECNICA SALESIANA
+                                                   ANDRES TOPON
