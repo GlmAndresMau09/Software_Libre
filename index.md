@@ -31,21 +31,17 @@ Tu sellecionas la forma de pago que necesites o requieras.
 
 ![E-commerce-3](https://user-images.githubusercontent.com/83998267/126919627-cc4b7d0e-3683-4155-b70a-350a87a41bc4.jpg)
 
-```markdown
-Syntax highlighted code block
+```ventajas
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Aumento de ventas 
+## forma de pago seguras
+### vender tusw productos al alcance de todoe el mundo
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+Personalizamos tu sitio de ventas 
+1. Estilos
+2. Forma de pago
+3. Colores
 
 ![Captura](https://user-images.githubusercontent.com/83998267/126908596-9db198d6-cb0f-4b3c-a4b0-d94376b41d7e.PNG)
 
