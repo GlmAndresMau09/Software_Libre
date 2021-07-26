@@ -54,10 +54,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Suscribete con nosotros y has que tu negocio pase a una nueva hera tecnologica.
+
+
+![cm3](https://user-images.githubusercontent.com/83998267/126919845-dae5a240-2f58-405f-b896-980eb46b5889.jpg)
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GlmAndresMau09/Software_Libre/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contactanos
+
+Quito-Ecuador
+Telfono:0983731825
+Link de DESCARGA (https://glmandresmau09.github.io/Software_Libre/)
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
